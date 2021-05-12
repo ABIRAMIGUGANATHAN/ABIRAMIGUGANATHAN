@@ -2,7 +2,7 @@
 - 👀 I’m interested in python 3
 - 🌱 I’m currently learning python 3
 - 💞️ I’m looking to collaborate on IT sector
-- 📫 How to reach me 
+- 📫 How to reach me I would love the opportunities of IT sector  
 
 <!---
 ABIRAMIGUGANATHAN/ABIRAMIGUGANATHAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
